@@ -31,5 +31,11 @@
 				"organizeImports": "on"
 			}
 		}
+	},
+	"html": {
+		"formatter": {
+			"enabled": true
+		},
+		"experimentalFullSupportEnabled": true
 	}
 }
